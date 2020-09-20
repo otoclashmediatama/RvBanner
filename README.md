@@ -139,5 +139,5 @@ public class MainActivity extends AppCompatActivity implements BannerLayout.OnBa
      limitations under the License.
 
 ## Thanks
-[ViewPagerLayoutManager](https://github.com/leochuan/ViewPagerLayoutManager) Part of the code is used
-[ren93RecyclerBanner](https://github.com/ren93/RecyclerBanner) Old Source Library Project From
+Part of the code is used [ViewPagerLayoutManager](https://github.com/leochuan/ViewPagerLayoutManager)
+Old Source Library Project From [ren93RecyclerBanner](https://github.com/ren93/RecyclerBanner)
