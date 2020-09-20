@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+attr autoPlaying
+attr? centerScale
+attr? indicatorGravity
+attr? indicatorMarginBottom
+attr? indicatorMarginLeft
+attr? indicatorMarginRight
+attr? indicatorSelectedSrc
+attr? indicatorSpace
+attr? indicatorUnselectedSrc
+attr interval
+attr? itemSpace
+attr? moveSpeed
+attr orientation
+attr showIndicator
+id center
+id horizontal
+id left
+id right
+id vertical
+string app_name
+styleable BannerLayout interval showIndicator orientation autoPlaying itemSpace centerScale moveSpeed
+styleable RecyclerViewBannerBase interval showIndicator orientation autoPlaying indicatorSelectedSrc indicatorUnselectedSrc indicatorSpace indicatorMarginLeft indicatorMarginRight indicatorMarginBottom indicatorGravity
