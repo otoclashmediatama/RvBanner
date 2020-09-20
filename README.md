@@ -26,7 +26,7 @@ allprojects {
 ```groovy
 dependencies {
     ...
-    implementation 'com.github.otoclashmediatama:RvBanner:1.1.7'
+    implementation 'com.github.otoclashmediatama:RvBanner:1.1.8'
 }
 ```
 
